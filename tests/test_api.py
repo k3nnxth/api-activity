@@ -1,4 +1,4 @@
-from api_activity import create_app
+from api_activity.app import create_app
 import pytest
 
 
